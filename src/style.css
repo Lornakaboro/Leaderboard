@@ -1,0 +1,77 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+}
+
+.leader-board {
+  display: flex;
+  justify-content: center;
+  margin-top: 4%;
+}
+
+.title {
+  font-size: 2.3rem;
+  margin-left: 2%;
+  margin-top: 1%;
+}
+
+.subtitle {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.scores {
+  width: 40%;
+}
+
+.recent-scores {
+  display: flex;
+  gap: 2rem;
+}
+
+.my-scores {
+  display: flex;
+  width: 40%;
+  flex-direction: column;
+}
+
+.score-list {
+  list-style: none;
+  border: 1px solid 	rgb(0, 0, 0);
+  box-sizing: border-box;
+  margin-top: 2%;
+  width: 80%;
+  padding: 1rem;
+  background-color: white;
+  box-shadow: 0 0 30px rgba(150, 150, 150, 0.25);
+}
+
+.score-list li:nth-child(odd) {
+  background-color: rgb(211, 211, 211);
+}
+
+.list-item {
+  align-items: baseline;
+  border-bottom: 1px solid rgba(220, 220, 220, 1);
+  border-top: 1px solid rgba(220, 220, 220, 1);
+}
+
+.input-form input {
+  padding: 8px;
+  margin: 0.8rem 0;
+  border: 1px solid black;
+}
+
+.input-form {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.btn {
+  padding: 1%;
+  border: 1px solid black;
+  box-shadow: 2px 3px 3px rgba(0, 0, 0, 1);
+}
