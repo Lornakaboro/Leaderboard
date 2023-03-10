@@ -12,29 +12,20 @@
         <div class="scores">
             <div class="recent-scores">
                 <h3 class="subtitle">Recent scores</h3>
-                <button type="button" class="btn">Refresh</button>
+                <button type="button" class="btn" id="refresh-button">Refresh</button>
             </div>
-            <div class="list">
-                <ul class="score-list">
-                    <li class="list-item">Name 100</li>
-                    <li class="list-item">Name 20</li>
-                    <li class="list-item">Name 50</li>
-                    <li class="list-item">Name 78</li>
-                    <li class="list-item">Name 125</li>
-                    <li class="list-item">Name 77</li>
-                    <li class="list-item">Name 42</li>
-                </ul>
-            </div>
+                <ul class="score-list" id="list"></ul>
         </div>
             
-        <div class="my-scores">
+        <div class="my-scores" id="my-scores">
             <h3 class="subtitle">Add your score</h3>
             <div class="form"> 
                 <form class="input-form">
-                    <input type="text" class="input" name="addname" placeholder="Your name" /> 
-                    <input type="text" class="input" name="addscore" placeholder="Your score" />
+                    <input type="text" id="name" class="input" name="addname" placeholder="Your name" /> 
+                    <input type="text" id="score" class="input" name="addscore" placeholder="Your score" />
                 </form>
-                <button type="submit" class="btn">Submit</button>
+                <button type="submit" id="btn" class="btn">Submit</button>
+                <div class="alert"></div>
             </div>
         </div>
     </section>
