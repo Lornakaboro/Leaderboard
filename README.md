@@ -159,8 +159,6 @@ I would like to thank:
 
 <!-- FAQ (optional) -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
