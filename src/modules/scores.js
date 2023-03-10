@@ -12,6 +12,10 @@ class Score {
 
   addedScore(e, message) {
     e.preventDefault();
+    e.preventDefault();
+    if (!this.user.value || !this.score.value) {
+      return;
+    }
     const userDetails = {
       user: this.user.value,
       score: this.score.value,
