@@ -117,6 +117,15 @@ Clone this repository to your desired folder:
 - Linkedin [@linkedinprofile](https://www.linkedin.com/in/lorna-kaboro-23620b242/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] sorting and filtering to allow display of users fro highest to lowest score
+- [ ] User authentication to allow users to manage their profiles
+- [ ] more interactive web page
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -149,8 +158,6 @@ I would like to thank:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
