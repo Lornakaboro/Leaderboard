@@ -3,6 +3,16 @@
 *::after {
   margin: 0;
   padding: 0;
+  font-family: 'lato', sans-serif;
+}
+
+.container {
+  background-image: url("./images/background-image.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  image-rendering: -webkit-optimize-contrast;
+  padding-top: 2%;
+  height: 100vh;
 }
 
 .leader-board {
@@ -49,7 +59,7 @@
 }
 
 .score-list li:nth-child(odd) {
-  background-color: rgb(211, 211, 211);
+  background-color: rgb(231, 96, 96);
 }
 
 .list-item {
@@ -71,7 +81,11 @@
 }
 
 .btn {
-  padding: 1%;
+  padding: 2%;
   border: 1px solid black;
   box-shadow: 2px 3px 3px rgba(0, 0, 0, 1);
+  background-color: #ec5242;
+  color: #f0f2f5;
+  width: 110px;
+  border-radius: 5px;
 }
