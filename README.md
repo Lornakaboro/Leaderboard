@@ -121,7 +121,7 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] sorting and filtering to allow display of users fro highest to lowest score
+- [ ] sorting and filtering to allow display of users from highest to lowest score
 - [ ] User authentication to allow users to manage their profiles
 - [ ] more interactive web page
 
