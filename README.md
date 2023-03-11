@@ -41,7 +41,7 @@
 
 >  This is a  leaderboard website that  displays scores submitted by different players. It also allows you to submit your scores
 
-**[Leaderboard]** is a single page application that that  displays scores submitted by different players. It also allows you to submit your scores.The application uses Microverse leaderboard API [link]('https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/TGZ2rGzxRYwf6utIxrJm/scores/')to store and fetch data.
+**[Leaderboard]** is a single page application that that  displays scores submitted by different players. It also allows you to submit your scores.The application uses Microverse leaderboard API [link](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/TGZ2rGzxRYwf6utIxrJm/scores/) to store and fetch data.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
